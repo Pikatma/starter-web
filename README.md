@@ -18,3 +18,5 @@ Sample website with plenty of files for demos
 
 
 2024 Git Training
+
+More text
