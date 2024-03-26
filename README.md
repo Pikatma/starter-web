@@ -15,3 +15,6 @@ Other changes
 Sample website with plenty of files for demos
 
 ## How to Contribute
+
+
+2024 Git Training
